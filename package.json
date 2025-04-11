@@ -1,0 +1,27 @@
+{
+    "name": "yxdtg_ts_post_message_object",
+    "version": "0.0.2",
+    "description": "一个用于多个跨域窗口页面之间互相通信的库。",
+    "main": "index.js",
+    "scripts": {
+        "dev": "tsup --config tsup.config.ts --watch",
+        "build": "tsup --config tsup.config.ts"
+    },
+    "keywords": [
+        "typescript",
+        "post_message",
+        "ts_post_message",
+        "iframe",
+        "iframe_post_message",
+        "multiple_window_communication",
+        "yxdtg",
+        "yxdtg_ts_post_message_object"
+    ],
+    "author": "yxdtg",
+    "license": "MIT",
+    "packageManager": "pnpm@10.6.1",
+    "devDependencies": {
+        "tsup": "^8.4.0",
+        "typescript": "^5.8.3"
+    }
+}
