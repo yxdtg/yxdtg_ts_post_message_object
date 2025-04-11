@@ -1,0 +1,2 @@
+# yxdtg_ts_post_message_object
+浏览器中一个用于多个跨域窗口页面之间互相通信的库。
